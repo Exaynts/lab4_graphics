@@ -16,6 +16,7 @@ cd vcpkg
 .\bootstrap-vcpkg.bat
 cd ..
 .\vcpkg\vcpkg integrate install
+```
 
 ### 3. Откройте решение и соберите проект
 Закройте командную строку и вернитесь в Visual Studio.
