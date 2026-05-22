@@ -1,0 +1,2 @@
+C:\Users\Jamushka\source\repos\lab4_graphics\x64\Debug\glfw3.dll
+C:\Users\Jamushka\source\repos\lab4_graphics\lab4_graphics\x64\Debug\lab4_gra.620CA3BB.Up2Date

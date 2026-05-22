@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Jamushka\source\repos\lab4_graphics\src\main.cpp(263,44): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+  lab4_graphics.vcxproj -> C:\Users\Jamushka\source\repos\lab4_graphics\x64\Debug\lab4_graphics.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
